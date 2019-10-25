@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UTSTEORI</string>
+    <string name="kode_pelanggan">Kode Pelanggan</string>
+    <string name="masukkan_kode_pelanggan">Masukkan Kode Pelanggan</string>
+    <string name="nama">Nama</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="type">Type</string>
+    <string name="masukkan_type">Masukkan Type</string>
+    <string name="meter_awal">Meter Awal</string>
+    <string name="masukkan_meter_awal">Masukkan Meter Awal</string>
+    <string name="meter_akhir">Meter Akhir</string>
+    <string name="masukkan_meter_akhir">Masukkan Meter Akhir</string>
+    <string name="pemakaian">Pemakaian</string>
+    <string name="masukkan_pemakaian">Masukkan Pemakaian</string>
+    <string name="harga_kwh">Harga/KWH</string>
+    <string name="masukkan_harga_kwh">Masukkan harga/kwh</string>
+    <string name="jumlah_bayar">Jumlah Bayar</string>
+    <string name="masukkan_nominal_pembayaran">Masukkan Nominal Pembayaran</string>
+    <string name="kategori">Kategori</string>
+    <string name="hasil_kategori">Hasil Kategori</string>
+    <string name="uang_kembalian">Uang Kembalian</string>
+    <string name="keterangan">Keterangan</string>
+    <string name="hapus">Hapus</string>
+    <string name="keluar">Keluar</string>
+    <string name="total">Total</string>
+    <string name="total_pemakaian">Total Pemakaian</string>
+</resources>
